@@ -18,6 +18,10 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+```
+Name: Shehan Shajahan
+Reg No: 212223240154
+```
  ~~~
 import matplotlib.pyplot as plt
 import numpy as np
